@@ -1,0 +1,131 @@
+var Galley_101 = '{"name":"Galley","level":1,"model":1,"size":3.4,"specs":{"shield":{"capacity":[400,400],"reload":[17,17]},"generator":{"capacity":[350,350],"reload":[175,175]},"ship":{"mass":250,"speed":[120,120],"rotation":[20,20],"acceleration":[80,80]}},"bodies":{"main":{"section_segments":10,"offset":{"x":0,"y":0,"z":16},"position":{"x":[0,0,0,0,0,0,0,0,0,0,0,0],"y":[-100,-72,-50,-45,-25,-20,-12,25,45,50,72,80],"z":[10,0,-5,-5,-6,-6,-6,-6,-6,-5,0,10]},"height":[0,10,15,15,17,17,17,17,15,15,10,0],"width":[0,15,25,25,25,25,25,25,25,25,15,0],"texture":[2,11,1,2,1,1,1,1,2,2,3],"propeller":false},"base1":{"section_segments":6,"angle":0,"offset":{"x":20,"y":-30,"z":20},"position":{"x":[0,0,0,0],"y":[-10,-6,6,10],"z":[-2,0,0,-2]},"width":[0,4,4,0],"height":[0,3,3,0],"texture":[2,11,2],"propeller":false},"cannons1":{"section_segments":10,"offset":{"x":25,"y":-33,"z":20},"position":{"x":[0,0,0,0,0],"y":[-4,-8,-6,2,3],"z":[0,0,0,0,0]},"width":[0,2,2,2,0],"height":[0,2,2,2,0],"texture":[3,6,2,10,12],"angle":-90,"laser":{"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"error":0}},"cannons2":{"section_segments":10,"offset":{"x":25,"y":-27,"z":20},"position":{"x":[0,0,0,0,0],"y":[-4,-8,-6,2,3],"z":[0,0,0,0,0]},"width":[0,2,2,2,0],"height":[0,2,2,2,0],"texture":[3,6,2,10,12],"angle":-90,"laser":{"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"error":0}},"base2":{"section_segments":6,"angle":0,"offset":{"x":20,"y":-10,"z":20},"position":{"x":[0,0,0,0],"y":[-10,-6,6,10],"z":[-2,0,0,-2]},"width":[0,4,4,0],"height":[0,3,3,0],"texture":[2,11,2],"propeller":false},"cannons3":{"section_segments":10,"offset":{"x":25,"y":-13,"z":20},"position":{"x":[0,0,0,0,0],"y":[-4,-8,-6,2,3],"z":[0,0,0,0,0]},"width":[0,2,2,2,0],"height":[0,2,2,2,0],"texture":[3,6,2,10,12],"angle":-90,"laser":{"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"error":0}},"cannons4":{"section_segments":10,"offset":{"x":25,"y":-7,"z":20},"position":{"x":[0,0,0,0,0],"y":[-4,-8,-6,2,3],"z":[0,0,0,0,0]},"width":[0,2,2,2,0],"height":[0,2,2,2,0],"texture":[3,6,2,10,12],"angle":-90,"laser":{"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"error":0}},"base3":{"section_segments":6,"angle":0,"offset":{"x":20,"y":10,"z":20},"position":{"x":[0,0,0,0],"y":[-10,-6,6,10],"z":[-2,0,0,-2]},"width":[0,4,4,0],"height":[0,3,3,0],"texture":[2,11,2],"propeller":false},"cannons5":{"section_segments":10,"offset":{"x":25,"y":7,"z":20},"position":{"x":[0,0,0,0,0],"y":[-4,-8,-6,2,3],"z":[0,0,0,0,0]},"width":[0,2,2,2,0],"height":[0,2,2,2,0],"texture":[3,6,2,10,12],"angle":-90,"laser":{"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"error":0}},"cannons6":{"section_segments":10,"offset":{"x":25,"y":13,"z":20},"position":{"x":[0,0,0,0,0],"y":[-4,-8,-6,2,3],"z":[0,0,0,0,0]},"width":[0,2,2,2,0],"height":[0,2,2,2,0],"texture":[3,6,2,10,12],"angle":-90,"laser":{"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"error":0}},"base4":{"section_segments":6,"angle":0,"offset":{"x":20,"y":30,"z":20},"position":{"x":[0,0,0,0],"y":[-10,-6,6,10],"z":[-2,0,0,-2]},"width":[0,4,4,0],"height":[0,3,3,0],"texture":[2,11,2],"propeller":false},"cannons7":{"section_segments":10,"offset":{"x":25,"y":27,"z":20},"position":{"x":[0,0,0,0,0],"y":[-4,-8,-6,2,3],"z":[0,0,0,0,0]},"width":[0,2,2,2,0],"height":[0,2,2,2,0],"texture":[3,6,2,10,12],"angle":-90,"laser":{"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"error":0}},"cannons8":{"section_segments":10,"offset":{"x":25,"y":33,"z":20},"position":{"x":[0,0,0,0,0],"y":[-4,-8,-6,2,3],"z":[0,0,0,0,0]},"width":[0,2,2,2,0],"height":[0,2,2,2,0],"texture":[3,6,2,10,12],"angle":-90,"laser":{"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"error":0}},"mast1":{"angle":90,"section_segments":10,"offset":{"x":0,"y":-40,"z":45},"position":{"x":[0,0,5,5,0,0],"y":[-25,-25,-10,10,25,25],"z":[0,0,0,0,0,0]},"width":[0,1,2,2,1,0],"height":[0,15,15,15,15,0],"texture":[63]},"mast2":{"angle":90,"section_segments":10,"offset":{"x":0,"y":-37,"z":80},"position":{"x":[0,7,7,0],"y":[-25,-10,10,25],"z":[-13,3,3,-13]},"width":[0,2,2,0],"height":[0,15,15,0],"texture":[63]},"pole1":{"section_segments":6,"offset":{"x":0,"y":-6,"z":5},"position":{"x":[0,0,0,0],"y":[10,10,5,5],"z":[130,105,10,10]},"width":[0,3,3,0],"height":[0,3,4,0],"texture":[6]},"mast3":{"angle":90,"section_segments":10,"offset":{"x":0,"y":0,"z":50},"position":{"x":[0,0,5,5,0,0],"y":[-25,-25,-10,10,25,25],"z":[0,0,0,0,0,0]},"width":[0,1,2,2,1,0],"height":[0,10,10,10,10,0],"texture":[63]},"mast4":{"angle":90,"section_segments":10,"offset":{"x":0,"y":2,"z":90},"position":{"x":[0,7,7,0],"y":[-25,-10,10,25],"z":[-21,3,3,-21]},"width":[0,2,2,0],"height":[0,20,20,0],"texture":[63]},"pole2":{"section_segments":6,"offset":{"x":0,"y":-46,"z":5},"position":{"x":[0,0,0,0],"y":[10,10,5,5],"z":[110,95,10,10]},"width":[0,3,3,0],"height":[0,3,4,0],"texture":[6]},"mast5":{"section_segments":10,"offset":{"x":0,"y":50,"z":50},"position":{"x":[0,0,5,5],"y":[-25,-25,10,10],"z":[-21,-21,10,10]},"width":[0,2,2,0],"height":[0,5,20,0],"texture":[63]},"pole3":{"section_segments":6,"offset":{"x":0,"y":36,"z":5},"position":{"x":[0,0,0,0],"y":[10,10,5,5],"z":[80,65,10,10]},"width":[0,3,3,0],"height":[0,3,4,0],"texture":[6]}},"typespec":{"name":"Galley","level":1,"model":1,"code":101,"specs":{"shield":{"capacity":[400,400],"reload":[17,17]},"generator":{"capacity":[350,350],"reload":[175,175]},"ship":{"mass":250,"speed":[120,120],"rotation":[20,20],"acceleration":[80,80]}},"shape":[6.8,6.051,5.025,4.284,3.776,3.173,3.266,2.983,2.102,2.462,2.413,2.317,1.701,1.705,2.317,2.413,2.462,2.102,2.983,3.266,3.079,3.776,4.284,5.002,5.261,5.44,5.261,5.002,4.284,3.776,3.079,3.266,2.983,2.102,2.462,2.413,2.317,1.705,1.701,2.317,2.413,2.462,2.102,2.983,3.266,3.173,3.776,4.284,5.025,6.051],"lasers":[{"x":2.244,"y":-2.244,"z":1.36,"angle":-90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":-2.244,"y":-2.244,"z":1.36,"angle":90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":2.244,"y":-1.836,"z":1.36,"angle":-90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":-2.244,"y":-1.836,"z":1.36,"angle":90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":2.244,"y":-0.884,"z":1.36,"angle":-90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":-2.244,"y":-0.884,"z":1.36,"angle":90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":2.244,"y":-0.476,"z":1.36,"angle":-90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":-2.244,"y":-0.476,"z":1.36,"angle":90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":2.244,"y":0.476,"z":1.36,"angle":-90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":-2.244,"y":0.476,"z":1.36,"angle":90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":2.244,"y":0.884,"z":1.36,"angle":-90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":-2.244,"y":0.884,"z":1.36,"angle":90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":2.244,"y":1.836,"z":1.36,"angle":-90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":-2.244,"y":1.836,"z":1.36,"angle":90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":2.244,"y":2.244,"z":1.36,"angle":-90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0},{"x":-2.244,"y":2.244,"z":1.36,"angle":90,"damage":[10,10],"rate":4,"type":1,"speed":[100,100],"number":1,"spread":0,"error":0,"recoil":0}],"radius":6.8}}';
+var ships = [];
+ships.push(Galley_101);
+
+this.options = {
+  ships: ships,
+  root_mode: "survival",
+  map_name: "Pirate Mode",
+  map_size: 50,
+  reset_tree: true,
+  asteroids_strength: 5,
+  rcs_toggle: false,
+};
+game.removeObject()
+
+var water = {
+  id: "water",
+  obj: "https://starblast.data.neuronality.com/mods/objects/plane.obj",
+  emissive: "https://raw.githubusercontent.com/StarblastFinalizer/StarblastModding/master/water.png",
+  emissiveColor: 0x808080,
+  transparent: false
+};
+
+var s = 20
+for(var g = -15; g < 10; g++){
+  {
+    for(var h = -15; h < 10; h++){
+      game.setObject({
+      id:"water"+g+h,
+      type:water,
+      position:{x:g*20,y:h*20,z:-1},
+      scale:{x:s,y:s,z:s},
+      rotation: {x:0,y:0,z:0}
+      })
+    }
+  }
+}
+
+var cloud1 = {
+  id: "cloud1",
+  obj: "https://starblast.data.neuronality.com/mods/objects/plane.obj",
+  emissive: "https://raw.githubusercontent.com/StarblastFinalizer/StarblastModding/master/cloud3.png",
+  transparent: true
+}
+
+var cloud2 = {
+  id: "cloud2",
+  obj: "https://starblast.data.neuronality.com/mods/objects/plane.obj",
+  emissive: "https://raw.githubusercontent.com/StarblastFinalizer/StarblastModding/master/Cloud4.png",
+  transparent: true
+}
+var c = 30
+for(i=-250;i<251;i+=28){  //Step is set to 30 to help prevent crowding
+  for(g=-250;g<251;g+=28){
+    if(Math.random() < 0.025){  //Cloud1 has a 0.25 chance of spawning
+      game.setObject({
+      id:"cloud1"+i+":"+g,
+      type:cloud1,
+      position:{x:i,y:g,z:35+Math.random()*15},
+      scale:{x:c,y:c,z:c},//Cloud is set to a constant scale of 20, would like to change into random
+      rotation: {x:0,y:0,z:Math.random()*6.2}//in radians
+      })
+    }
+    else if (Math.random() < 0.05){ //Cloud2 has a 0.25 chance of spawning
+      game.setObject({
+      id:"cloud2"+i+":"+g,
+      type:cloud2,
+      position:{x:i,y:g,z:35+Math.random()*15},
+      scale:{x:c,y:c,z:c},  
+      rotation: {x:0,y:0,z:Math.random()*6.2}
+      })
+    }
+  }
+}
+this.tick = function(game) {
+};
+
+
+var alien_types = [
+    {code:16,level:0,points:5,crystal_drop:5},
+    {code:16,level:1,points:10,crystal_drop:10},
+    {code:16,level:2,points:15,crystal_drop:15},
+  ]
+
+var RedSpeak = function(ship,text,id){
+  if(!ship.custom[id])
+  {
+    ship.custom[id] = true;
+    ship.instructorSays(text, "Zoltar");
+    ship.custom.last_talked = ship.game.step;
+  }
+}
+var checkInstructor = function(ship){
+  if(ship.custom.last_talked != null && ship.game.step > ship.custom.last_talked + 600)
+  {
+    ship.custom.last_talked = null;
+    ship.hideInstructor();
+  }
+}
+this.tick = function(game) {
+  if (game.step % 60 == 0)
+  {
+    var aliens = Math.max(5,Math.min(30,game.ships.length*2));
+    if (game.aliens.length<aliens)
+    {
+      var minute = game.step/3600 ;
+      var range = Math.min(alien_types.length,minute/3);
+      var index = Math.floor(Math.random()*range);
+      var angle = Math.random()*Math.PI*2;
+      var alien = alien_types[index] ;
+      alien.x = Math.cos(angle)*25 ;
+      alien.y = Math.sin(angle)*25 ;
+      game.addAlien(alien) ;
+    }
+    /*for(var i = 0; i <game.ships.length; i++)
+    {
+      var ship = game.ships[i];
+      RedSpeak(ship,"Argh! Thanks for playing Pirate Mode!","welcome_message");
+      checkInstructor(ship);
+    }*/
+    for (var i=0;i<game.ships.length;i++)
+    {
+      var ship = game.ships[i];
+      if (ship.custom.radar_updated == null)
+      {
+        ship.custom.radar_updated = true ;
+        ship.setUIComponent(radar_background);
+      }
+    }
+  }
+};
